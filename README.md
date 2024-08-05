@@ -1,2 +1,4 @@
-# hello-worl
-this repository is used for practice
+# hello world
+----
+> this is wsb's first trying to use github
+> 'include<iostream>'
